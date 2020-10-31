@@ -39,7 +39,7 @@ head:
     open_graph:
         # Page title (og:title) (optional)
         # You should leave this blank for most of the time
-        title: 
+        title: Seungchul's Blog
         # Page type (og:type) (optional)
         # You should leave this blank for most of the time
         type: blog
@@ -155,7 +155,7 @@ search:
 comment:
     type: disqus
     # Disqus shortname
-    shortname: ''
+    shortname: 'seungchul'
 
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
@@ -183,11 +183,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Seungchul Jang
         # Author title
-        author_title: Your title
+        author_title: 
         # Author's current location
-        location: Your location
+        location: Seoul
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
